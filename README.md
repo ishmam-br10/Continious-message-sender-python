@@ -27,3 +27,6 @@ otherwise it will show that itt is installed
     
     
   ![image](https://user-images.githubusercontent.com/113937167/197256797-f292fa6e-cc33-4b8d-8db2-cf596acb74f1.png)
+#3 finally open command prompt in the folder you have the code stored then 
+type 'python "SOURCE CODE.py"' (the double code is a must) and hit enter
+![image](https://user-images.githubusercontent.com/113937167/197257968-26e33b54-1efb-4a00-a306-d5df7fc85783.png)
