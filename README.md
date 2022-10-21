@@ -19,4 +19,11 @@ go to command promt or powershell type 'pip install pyautogui' hit enter it will
 otherwise it will show that itt is installed
    
     ![image](https://user-images.githubusercontent.com/113937167/197256737-28b93a2f-692f-4b33-bf9c-825e317f65aa.png)
+    
+    
+    
+    
+    
+    
+    
     ![image](https://user-images.githubusercontent.com/113937167/197256797-f292fa6e-cc33-4b8d-8db2-cf596acb74f1.png)
